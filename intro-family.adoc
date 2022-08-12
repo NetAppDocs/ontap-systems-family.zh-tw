@@ -1,0 +1,64 @@
+---
+permalink: intro-family.html 
+keywords: introduction, what is ONTAP systems, AFF, FAS, all-flash, ONTAP 
+summary: NetApp ONTAP 產品系列儲存系統專為需要易於管理、快速且安全的儲存設備、以及企業級可靠性和持續資料存取的企業應用程式所設計。 
+---
+= 瞭解AFF 關於儲存FAS 系統的功能性與功能性系列
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+NetApp AFF 的解決方案與FAS 功能系列儲存系統是專為需要易於管理、快速且安全的儲存設備、以及企業級可靠性與持續資料存取的企業應用程式所設計。
+
+支援All Flash（VMware）和混合式Flash及HDD（僅限HDD）（VMware）組態、讓您選擇最符合效能、容量及成本需求的儲存媒體組合。AFF FAS AFF FAS
+
+您可以叢集AFF 不同的支援功能、以支援不同的功能組合、在FAS 同一個儲存系統上執行混合式工作負載、並利用最新的技術新增新一代的儲存設備來建構您的環境。
+
+
+
+== All Flash FAS 更新（Solid-Flash）AFF 系統
+
+NVMe AFF 型的不間斷資料系統是專為虛擬化環境打造的強大橫向擴充平台、可部署為獨立系統、或是NetApp ONTAP 的不間斷資料組態中的高效能層。
+
+All Flash FAS 支援多種工作負載、尤其是需要高效能、低延遲和可靠性的VDI和資料庫、是業務關鍵應用程式的理想選擇。
+
+https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf["閱讀AFF 《產品介紹》"^]。
+
+
+
+== 支援混合式Flash系統FAS
+
+混合式Flash系統是專為共享、整合式SAN和NAS環境所打造的硬體平台、需要豐富的資料管理功能和輕鬆的雲端連線。FAS
+
+藉由高可用度的硬體FAS 、將Flash與傳統旋轉式磁碟機的理想組合結合、使混合式Flash系統以符合成本效益的方式滿足工作負載需求。它是備份與保留、整合一般商業應用程式及分散式內容的理想選擇。
+
+https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf["閱讀FAS 《產品介紹》"^]
+
+
+
+== MetroCluster
+
+以ONTAP的支援功能組態設定的整套解決方案、結合陣列式叢集與同步複寫、提供持續可用度、零資料遺失。AFF FAS MetroCluster此功能組態會立即複製每筆交易的所有關鍵任務資料、讓您不中斷地存取應用程式和資料。MetroCluster
+
+不像標準資料複寫解決方案、MetroCluster 它能與主機環境無縫搭配運作、提供持續的資料可用度、同時免除建立及維護複雜容錯移轉指令碼的需求。
+
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["瞭MetroCluster 解更多關於功能的資訊"^]
+
+
+
+== 軟件ONTAP
+
+資料管理軟體是叢集式儲存軟體、可為整個過程提供支援。ONTAP AFF FAS由於全球命名空間支援多達24 AFF 個所有FAS 類型的鏡像和鏡像節點、ONTAP 所以支援統一化儲存（區塊和檔案）、因此您可以使用ONTAP 《支援系統管理程式》GUI來管理大量的工作負載整合。
+
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["閱讀ONTAP 《產品介紹》"^]。
+
+
+
+== 以取得更多資訊
+
+* https://docs.netapp.com/us-en/ontap-systems/index.html["不再是不一樣的AFF FAS"^]
+* https://docs.netapp.com/us-en/ontap-metrocluster/index.html["文件MetroCluster"^]
+* https://docs.netapp.com/us-en/ontap/index.html["文件ONTAP"^]
+
