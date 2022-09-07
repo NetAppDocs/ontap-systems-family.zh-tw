@@ -24,7 +24,7 @@ product-family:
   - title: 系統升級
     tags: tag_storage_upgrade
   tiles:
-  - title: 瞭AFF 解關於這個產品的知識FAS
+  - title: 深入瞭AFF 解功能與FAS 功能
     icon: "./media/family.png"
     url: intro-family.html
     summary: 瞭解AFF 關於儲存FAS 系統的功能性與功能性系列。
