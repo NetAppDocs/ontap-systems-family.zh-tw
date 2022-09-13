@@ -64,4 +64,6 @@
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">安裝及升級MetroCluster 或擴充您的支援功能、並執行災難恢復。</block>
   <block id="92c6d872a66fecc8bd4e1d7766857bea" category="sidebar">深入瞭AFF 解功能與FAS 功能</block>
+  <block id="eb75aeb3b4b2b9734ba3e52f5483f0b2" category="sidebar">本文檔 ONTAP</block>
+  <block id="8005bf029d4b2e78ade8d024d73dbce2" category="sidebar">請使用ONTAP 《產品介紹》文件、瞭解如何設定ONTAP 功能、為用戶端配置儲存設備、以及如何使用System Manager或CLI來保護及管理資料。</block>
 </blocks>
