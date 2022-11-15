@@ -25,28 +25,8 @@
   <!-- Elastic Search -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/searchkit/0.10.0/theme.css">
 
-  <!-- Controls AsciiDoctor Admonition Blocks -->
-  <link rel="stylesheet" type="text/css" href="/zh-tw/ontap-systems-family/css/font-awesome.min.css">
-
-  <!-- Controls the shadow effect for search dropdown menu -->
-  <link rel="stylesheet" href="/zh-tw/ontap-systems-family/css/boxshadowproperties.css">
-
-  <!-- NetApp CSS controls the technical content -->
-  <link rel="stylesheet" type="text/css" href="/zh-tw/ontap-systems-family/css/netapp.css">
-
-  <!-- WWW CSS Content -->
-  <link rel="stylesheet" type="text/css" href="/zh-tw/ontap-systems-family/css/www-luci-dotcom.min.css">
-  <link rel="stylesheet" type="text/css" href="/zh-tw/ontap-systems-family/css/www-netapp-dotcom.css">
-  <link rel="stylesheet" href="/zh-tw/ontap-systems-family/css/www-netapp-library-critical.min.css" media="all" >
-  <link rel="stylesheet" href="/zh-tw/ontap-systems-family/css/www-netapp-library-non-critical.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="stylesheet" href="/zh-tw/ontap-systems-family/css/www-netapp-library-global-header-footer.min.css">
-
-  <!-- NetApp IE Customizations -->
-  <link rel="stylesheet" href='/zh-tw/ontap-systems-family/css/na-utility.css' type='text/css'>
-  <link rel="stylesheet" href='/zh-tw/ontap-systems-family/css/na-sidebar.css' type='text/css'>
-  <link rel='stylesheet' href='/zh-tw/ontap-systems-family/css/clouddocs.css' type='text/css'>
-  <link rel='stylesheet' href='/zh-tw/ontap-systems-family/css/custom-dropdown.css' type='text/css'>
-  <link rel='stylesheet' href='/zh-tw/ontap-systems-family/css/na-pagenav.css' type='text/css'>
+  <!-- Combined CSS -->
+  <link rel="stylesheet" type="text/css" href="/zh-tw/ontap-systems-family/css/netappdocs.css">
 
   
   <link rel="stylesheet" href="/zh-tw/ontap-systems-family/css/landing-page.css" type="text/css">
@@ -99,11 +79,7 @@
 
   <!-- Used for Product Family Page Sidebar Visibility --><link rel="stylesheet" href='/zh-tw/ontap-systems-family/css/product-family.css' type="text/css">
   <script src='/zh-tw/ontap-systems-family/js/product-family.js'></script><!-- Used to import Promise for IE. Required for SearchKit -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.5/bluebird.min.js"></script><script src='/zh-tw/ontap-systems-family/js/na-search.js'></script><script src='/zh-tw/ontap-systems-family/js/na-pagenav.js'></script><link rel='stylesheet' href='/zh-tw/ontap-systems-family/css/prism.css' type='text/css'>
-  <link rel='stylesheet' href='/zh-tw/ontap-systems-family/css/prism-netapp.css' type='text/css'>
-
-
-  <script src='/zh-tw/ontap-systems-family/js/na-utility.js'></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.5/bluebird.min.js"></script><script src='/zh-tw/ontap-systems-family/js/na-search.js'></script><script src='/zh-tw/ontap-systems-family/js/na-pagenav.js'></script><script src='/zh-tw/ontap-systems-family/js/na-utility.js'></script>
   <script src='/zh-tw/ontap-systems-family/js/clouddocs.js'></script>
   <script src='/zh-tw/ontap-systems-family/js/jquery.navgoco.min.js'></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
@@ -142,6 +118,17 @@
           $("#expandAll").click(function(e) {
               e.preventDefault();
               $("#mysidebar").navgoco('toggle', true);
+          });
+
+          $(".sidebar-nav-container").on("scroll", function() {
+            $.cookie("sidebarScroll", $(".sidebar-nav-container").scrollTop(), {
+              path    : "/zh-tw/ontap-systems-family"  
+            });
+          });
+          $(function() {
+            if ($.cookie("sidebarScroll")) {
+              $(".sidebar-nav-container").scrollTop($.cookie("sidebarScroll"));
+            }
           });
 
       });
@@ -247,6 +234,8 @@
       </div>
 
       
+      
+      
       <div class="search-property-bar">
         <div id="search-demo-container" class="searchbox n-property-bar__search">
           <div id="react-search" 
@@ -293,6 +282,10 @@
           <a href="https://docs.netapp.com/zh-cn/ontap-systems-family/index.html" target="_self"><span translate="no" class="notranslate">简体中文</span></a>
         </li><li>
           <a href="https://docs.netapp.com/ko-kr/ontap-systems-family/index.html" target="_self"><span translate="no" class="notranslate">한국어</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/fr-fr/ontap-systems-family/index.html" target="_self"><span translate="no" class="notranslate">Français</span></a>
+        </li><li>
+          <a href="https://docs.netapp.com/de-de/ontap-systems-family/index.html" target="_self"><span translate="no" class="notranslate">Deutsch</span></a>
         </li></ul>
     </div><!-- End Language Selector -->
 
@@ -494,11 +487,7 @@
         <div class="n-footer__copyright">
           <ul class="n-footer__copyright-list">
             <li class="n-footer__copyright-link">
-              <span class="n-footer__fine-print">對我們的網站有任何意見或要求？</span>
-              <a target="_self" href="javascript:netapp_mailto()">請與我們聯絡</a>
-            </li>
-            <li class="n-footer__copyright-link">
-              <a href="https://docs.netapp.com/zh-tw/announcements/">公告</a>
+              <a target="_self" href="javascript:netapp_mailto()">傳送有關本網頁的意見反應</a>
             </li>
           </ul>
         </div>
