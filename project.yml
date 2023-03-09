@@ -1,6 +1,7 @@
 ---
 settings:
   name: AFF and FAS Family
+  search: ontap-systems,ontap-systems-upgrade,ontap-systems-switches,ontap-metrocluster
   internal:
     pdf_enabled: false
   prod:
@@ -12,7 +13,6 @@ sidebar:
   - title: 不再需要使用本技術AFF FAS
     url: "/index.html"
 product-family:
-  search: clouddocs-ontap-systems_main-prod,clouddocs-ontap-systems-upgrade_main-prod,clouddocs-ontap-systems-switches_main-prod,clouddocs-ontap-metrocluster_main-prod
   sidebarlinks:
   - title: 全部
     tags: tag_storage_management,tag_storage_upgrade,tag_storage_hardware,tag_get_started
@@ -49,8 +49,3 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
     summary: 安裝及升級MetroCluster 或擴充您的支援功能、並執行災難恢復。
     tags: all, tag_storage_upgrade
-  - title: 本文檔 ONTAP
-    icon: "./media/family.png"
-    url: https://docs.netapp.com/us-en/ontap-family/index.html
-    summary: 請使用ONTAP 《產品介紹》文件、瞭解如何設定ONTAP 功能、為用戶端配置儲存設備、以及如何使用System Manager或CLI來保護及管理資料。
-    tags: all, tag_storage_management
