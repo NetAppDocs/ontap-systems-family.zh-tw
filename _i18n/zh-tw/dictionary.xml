@@ -12,7 +12,6 @@
   <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">混合式Flash系統是專為共享、整合式SAN和NAS環境所打造的硬體平台、需要豐富的資料管理功能和輕鬆的雲端連線。FAS</block>
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">藉由高可用度的硬體FAS 、將Flash與傳統旋轉式磁碟機的理想組合結合、使混合式Flash系統以符合成本效益的方式滿足工作負載需求。它是備份與保留、整合一般商業應用程式及分散式內容的理想選擇。</block>
   <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">閱讀FAS 《產品介紹》</block>
-  <block id="962fcdf0e3f30c90386f558dada69895" category="paragraph"><block ref="962fcdf0e3f30c90386f558dada69895" category="inline-link-rx"></block></block>
   <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
   <block id="d8da382e26478f0bc6e18592fafd00ee" category="paragraph">以ONTAP的支援功能組態設定的整套解決方案、結合陣列式叢集與同步複寫、提供持續可用度、零資料遺失。AFF FAS MetroCluster此功能組態會立即複製每筆交易的所有關鍵任務資料、讓您不中斷地存取應用程式和資料。MetroCluster</block>
   <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">不像標準資料複寫解決方案、MetroCluster 它能與主機環境無縫搭配運作、提供持續的資料可用度、同時免除建立及維護複雜容錯移轉指令碼的需求。</block>
@@ -65,4 +64,5 @@
   <block id="89392af5eda25c825021d432ddf93588" category="inline-link">閱讀 AFF A 系列產品介紹</block>
   <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">閱讀 AFF C 系列產品介紹</block>
   <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> 和<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>。</block>
+  <block id="fac33d262d5cecdc4766c37ba6f9f935" category="paragraph"><block ref="fac33d262d5cecdc4766c37ba6f9f935" category="inline-link-rx"></block></block>
 </blocks>

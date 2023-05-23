@@ -24,7 +24,7 @@ NVMe AFF 型的不間斷資料系統是專為虛擬化環境打造的強大橫�
 
 All Flash FAS 支援多種工作負載、尤其是需要高效能、低延遲和可靠性的VDI和資料庫、是業務關鍵應用程式的理想選擇。
 
-https://["閱讀 AFF A 系列產品介紹"^] 和 https://["閱讀 AFF C 系列產品介紹"^]。
+https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["閱讀 AFF A 系列產品介紹"^] 和 https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["閱讀 AFF C 系列產品介紹"^]。
 
 
 
@@ -34,7 +34,7 @@ https://["閱讀 AFF A 系列產品介紹"^] 和 https://["閱讀 AFF C 系列�
 
 藉由高可用度的硬體FAS 、將Flash與傳統旋轉式磁碟機的理想組合結合、使混合式Flash系統以符合成本效益的方式滿足工作負載需求。它是備份與保留、整合一般商業應用程式及分散式內容的理想選擇。
 
-https://["閱讀FAS 《產品介紹》"^]
+https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["閱讀FAS 《產品介紹》"^]
 
 
 
@@ -44,7 +44,7 @@ https://["閱讀FAS 《產品介紹》"^]
 
 不像標準資料複寫解決方案、MetroCluster 它能與主機環境無縫搭配運作、提供持續的資料可用度、同時免除建立及維護複雜容錯移轉指令碼的需求。
 
-https://["瞭MetroCluster 解更多關於功能的資訊"^]
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["瞭MetroCluster 解更多關於功能的資訊"^]
 
 
 
@@ -52,13 +52,13 @@ https://["瞭MetroCluster 解更多關於功能的資訊"^]
 
 資料管理軟體是叢集式儲存軟體、可為整個過程提供支援。ONTAP AFF FAS由於全球命名空間支援多達24 AFF 個所有FAS 類型的鏡像和鏡像節點、ONTAP 所以支援統一化儲存（區塊和檔案）、因此您可以使用ONTAP 《支援系統管理程式》GUI來管理大量的工作負載整合。
 
-https://["閱讀ONTAP 《產品介紹》"^]。
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["閱讀ONTAP 《產品介紹》"^]。
 
 
 
 == 以取得更多資訊
 
-* https://["不再是不一樣的AFF FAS"^]
-* https://["文件MetroCluster"^]
-* https://["文件ONTAP"^]
+* https://docs.netapp.com/us-en/ontap-systems/index.html["不再是不一樣的AFF FAS"^]
+* https://docs.netapp.com/us-en/ontap-metrocluster/index.html["文件MetroCluster"^]
+* https://docs.netapp.com/us-en/ontap/index.html["文件ONTAP"^]
 
