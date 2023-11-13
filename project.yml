@@ -10,7 +10,7 @@ settings:
   langs: zh-tw,us-en,ja-jp,ko-kr,zh-cn,de-de,es-es,fr-fr,it-it
 sidebar:
   entries:
-  - title: 不再需要使用本技術AFF FAS
+  - title: ONTAP 硬體系統文件
     url: "/index.html"
 product-family:
   sidebarlinks:
@@ -24,20 +24,20 @@ product-family:
   - title: 系統升級
     tags: tag_storage_upgrade
   tiles:
-  - title: 深入瞭AFF 解功能與FAS 功能
+  - title: 瞭解 ONTAP 硬體系統
     icon: "./media/family.png"
     url: intro-family.html
-    summary: 瞭解AFF 關於儲存FAS 系統的功能性與功能性系列。
+    summary: 瞭解 ONTAP 硬體系統。
     tags: all, tag_get_started
-  - title: 安裝與維護AFF FAS
+  - title: 安裝與維護
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap-systems/index.html
-    summary: 安裝並維護AFF 您的不穩定、FAS 不穩定或所有SAN Array系統。
+    summary: 安裝及維護 ONTAP 硬體系統。
     tags: all, tag_storage_hardware
-  - title: 升級版AFF FAS
+  - title: 升級
     icon: "./media/upgrade.png"
     url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
-    summary: 升級AFF 您的功能性和FAS 功能性儲存系統。
+    summary: 升級 ONTAP 硬體系統。
     tags: all, tag_storage_upgrade
   - title: 叢集與儲存交換器
     icon: "./media/switch.png"

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="d24f49ab459eb5cf20cac1a98ab2f379" category="summary">NetApp ONTAP 產品系列儲存系統專為需要易於管理、快速且安全的儲存設備、以及企業級可靠性和持續資料存取的企業應用程式所設計。</block>
-  <block id="8c04ea70634d0554f973a2d69d65a295" category="doc">瞭解AFF 關於儲存FAS 系統的功能性與功能性系列</block>
-  <block id="85cf9c0ff76eceb38b21e8b18cd1cb9a" category="paragraph">NetApp AFF 的解決方案與FAS 功能系列儲存系統是專為需要易於管理、快速且安全的儲存設備、以及企業級可靠性與持續資料存取的企業應用程式所設計。</block>
-  <block id="d33452f83a0ff2c23eb72b0e994747a5" category="paragraph">支援All Flash（VMware）和混合式Flash及HDD（僅限HDD）（VMware）組態、讓您選擇最符合效能、容量及成本需求的儲存媒體組合。AFF FAS AFF FAS</block>
-  <block id="26c1e0398fc6b3e1d0a15a0d26117bea" category="paragraph">您可以叢集AFF 不同的支援功能、以支援不同的功能組合、在FAS 同一個儲存系統上執行混合式工作負載、並利用最新的技術新增新一代的儲存設備來建構您的環境。</block>
   <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">All Flash FAS 更新（Solid-Flash）AFF 系統</block>
   <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">NVMe AFF 型的不間斷資料系統是專為虛擬化環境打造的強大橫向擴充平台、可部署為獨立系統、或是NetApp ONTAP 的不間斷資料組態中的高效能層。</block>
   <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">All Flash FAS 支援多種工作負載、尤其是需要高效能、低延遲和可靠性的VDI和資料庫、是業務關鍵應用程式的理想選擇。</block>
@@ -13,12 +8,10 @@
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">藉由高可用度的硬體FAS 、將Flash與傳統旋轉式磁碟機的理想組合結合、使混合式Flash系統以符合成本效益的方式滿足工作負載需求。它是備份與保留、整合一般商業應用程式及分散式內容的理想選擇。</block>
   <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">閱讀FAS 《產品介紹》</block>
   <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
-  <block id="d8da382e26478f0bc6e18592fafd00ee" category="paragraph">以ONTAP的支援功能組態設定的整套解決方案、結合陣列式叢集與同步複寫、提供持續可用度、零資料遺失。AFF FAS MetroCluster此功能組態會立即複製每筆交易的所有關鍵任務資料、讓您不中斷地存取應用程式和資料。MetroCluster</block>
   <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">不像標準資料複寫解決方案、MetroCluster 它能與主機環境無縫搭配運作、提供持續的資料可用度、同時免除建立及維護複雜容錯移轉指令碼的需求。</block>
   <block id="f8e19c375690f5b7624b2e50f0cd6854" category="inline-link">瞭MetroCluster 解更多關於功能的資訊</block>
   <block id="12ec083d4ad98cfdd42aca66fcc37845" category="paragraph"><block ref="12ec083d4ad98cfdd42aca66fcc37845" category="inline-link-rx"></block></block>
   <block id="efd44736fee0b29831bc101f834f9425" category="section-title">軟件ONTAP</block>
-  <block id="71104b6e4383497ec6f88bada2d3d545" category="paragraph">資料管理軟體是叢集式儲存軟體、可為整個過程提供支援。ONTAP AFF FAS由於全球命名空間支援多達24 AFF 個所有FAS 類型的鏡像和鏡像節點、ONTAP 所以支援統一化儲存（區塊和檔案）、因此您可以使用ONTAP 《支援系統管理程式》GUI來管理大量的工作負載整合。</block>
   <block id="ac50b55c541887c8213257b7fa8011db" category="inline-link">閱讀ONTAP 《產品介紹》</block>
   <block id="b29519a2297404339371dd4904a14b94" category="paragraph"><block ref="c8c2c80c2dc2440549184e1ee06ef9aa" category="inline-link-rx"></block>。</block>
   <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="section-title">以取得更多資訊</block>
@@ -41,22 +34,14 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知檔案提供有關 NetApp 軟體所使用之協力廠商版權與授權的資訊。</block>
   <block id="27e4f654e31a54c18c3f94846eb8fcc2" category="inline-link">磁碟櫃注意事項</block>
   <block id="0c8d7a4e0e5ab5d34b549a9af84add17" category="paragraph"><block ref="0c8d7a4e0e5ab5d34b549a9af84add17" category="inline-link-rx"></block></block>
-  <block id="44d8486403c2cdfe41dc5de62cbf76d1" category="summary">NetApp AFF 功能完善FAS 、功能完善的儲存系統與應用程式資料管理服務、適用於需要簡單易管理、具備企業級可靠性的全快閃儲存設備的高頻寬應用程式。</block>
-  <block id="353534d94bfe5cda4a518ae399d604c2" category="doc">不再需要使用本技術AFF FAS</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
   <block id="9e2ef56d3728315bb8dc93124d72f8cd" category="sidebar">系統硬體</block>
   <block id="0bcaacd75b850fde02c6d9384f639e41" category="sidebar">系統升級</block>
-  <block id="89367cedc98a9ab8e00fe6333998bb75" category="sidebar">瞭解AFF 關於儲存FAS 系統的功能性與功能性系列。</block>
-  <block id="5d30e497af6505a70fb4a9dc3c844793" category="sidebar">安裝與維護AFF FAS</block>
-  <block id="04de76368936f7c44c7e195855fd893c" category="sidebar">安裝並維護AFF 您的不穩定、FAS 不穩定或所有SAN Array系統。</block>
-  <block id="53d4dca81abe1b4d22f8624acbac213b" category="sidebar">升級版AFF FAS</block>
-  <block id="42710888a632d6579b04a4f26901f69a" category="sidebar">升級AFF 您的功能性和FAS 功能性儲存系統。</block>
   <block id="cce8f24137d8ba188a996f1ac50fd1c9" category="sidebar">叢集與儲存交換器</block>
   <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">安裝、升級及維護您的叢集與儲存交換器。</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">安裝及升級MetroCluster 或擴充您的支援功能、並執行災難恢復。</block>
-  <block id="92c6d872a66fecc8bd4e1d7766857bea" category="sidebar">深入瞭AFF 解功能與FAS 功能</block>
   <block id="89392af5eda25c825021d432ddf93588" category="inline-link">閱讀 AFF A 系列產品介紹</block>
   <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">閱讀 AFF C 系列產品介紹</block>
   <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> 和<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>。</block>
@@ -69,4 +54,22 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="b05f1c4b5e26f3eac9dee0aad263ed75" category="summary">NetApp 的 ONTAP 系列儲存系統是專為企業應用程式所設計、這些應用程式需要易於管理、快速且安全的儲存設備、並具備企業級的可靠性和持續的資料存取。</block>
+  <block id="4931551222aa917801cbe975fd254f58" category="doc">瞭解 ONTAP 硬體系統</block>
+  <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">NetApp 的 ONTAP 硬體系統是專為企業應用程式所設計、這些應用程式需要易於管理、快速且安全的儲存設備、並具備企業級的可靠性和持續的資料存取。</block>
+  <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">NetApp 的 ONTAP 硬體系統提供 All Flash （ AFF ）和混合式 Flash 和僅硬碟（ FAS ）組態、讓您選擇最符合效能、容量和成本需求的儲存媒體組合。</block>
+  <block id="3732021d709f401480670fe0967338ce" category="paragraph">您可以叢集不同的模型組合、在同一個儲存系統上執行混合式工作負載、並使用最新技術新增新一代的儲存設備、以建構您的環境。</block>
+  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">所有 SAN 陣列（ ASA ）系統</block>
+  <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetApp All Flash SAN Array （ ASA ）提供簡化且專屬的 SAN 體驗、可透過 FCP 或 iSCSI 傳輸協定、為企業關鍵任務資料庫及其他 SAN 工作負載提供持續的資料可用度。</block>
+  <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">閱讀 ASA 資料表</block>
+  <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
+  <block id="09cbbac77d0ef506dcbd294171cc66dc" category="paragraph">ONTAP 的硬體儲存系統設定有 ONTAP 的 MetroCluster 功能、提供結合陣列式叢集與同步複寫的解決方案、可提供持續可用度、零資料遺失。此功能組態會立即複製每筆交易的所有關鍵任務資料、讓您不中斷地存取應用程式和資料。MetroCluster</block>
+  <block id="f5663fc0d37f754e24c01ce5dd001d5f" category="paragraph">ONTAP 資料管理軟體是叢集式儲存軟體、可驅動 ONTAP 硬體系統。ONTAP 軟體採用全域命名空間、最多可支援 24 個所有類型的硬體節點、支援統一化儲存（區塊和檔案）、可讓您使用 ONTAP 系統管理員 GUI 來管理大量的工作負載整合。</block>
+  <block id="1f90335d79116dc043d2eb600c05f7dd" category="summary">NetApp 的 ONTAP AFF 、 FAS 和 ASA 硬體儲存系統提供儲存和應用程式資料管理服務、適合需要簡單易管理、且具備企業級可靠性的全快閃儲存設備的高頻寬應用程式。</block>
+  <block id="ec6e72d1c4bb7dccdc62b6caf35c95f7" category="doc">ONTAP 硬體系統文件</block>
+  <block id="0f7d6ea8518a2e39acde3d5aa8ea5537" category="sidebar">瞭解 ONTAP 硬體系統。</block>
+  <block id="802513659955a80d18b4529f94a6fd08" category="sidebar">安裝與維護</block>
+  <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">安裝及維護 ONTAP 硬體系統。</block>
+  <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">升級</block>
+  <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">升級 ONTAP 硬體系統。</block>
 </blocks>
