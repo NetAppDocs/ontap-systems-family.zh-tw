@@ -1,6 +1,6 @@
 ---
 settings:
-  name: AFF and FAS Family
+  name: ONTAP Hardware Systems
   search: ontap-systems,ontap-systems-upgrade,ontap-systems-switches,ontap-metrocluster
   internal:
     pdf_enabled: false
