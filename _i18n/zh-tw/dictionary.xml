@@ -59,7 +59,6 @@
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">NetApp 的 ONTAP 硬體系統是專為企業應用程式所設計、這些應用程式需要易於管理、快速且安全的儲存設備、並具備企業級的可靠性和持續的資料存取。</block>
   <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">NetApp 的 ONTAP 硬體系統提供 All Flash （ AFF ）和混合式 Flash 和僅硬碟（ FAS ）組態、讓您選擇最符合效能、容量和成本需求的儲存媒體組合。</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">您可以叢集不同的模型組合、在同一個儲存系統上執行混合式工作負載、並使用最新技術新增新一代的儲存設備、以建構您的環境。</block>
-  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">所有 SAN 陣列（ ASA ）系統</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetApp All Flash SAN Array （ ASA ）提供簡化且專屬的 SAN 體驗、可透過 FCP 或 iSCSI 傳輸協定、為企業關鍵任務資料庫及其他 SAN 工作負載提供持續的資料可用度。</block>
   <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">閱讀 ASA 資料表</block>
   <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
@@ -72,4 +71,5 @@
   <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">安裝及維護 ONTAP 硬體系統。</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">升級</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">升級 ONTAP 硬體系統。</block>
+  <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">All Flash SAN Array （ ASA ）系統</block>
 </blocks>

@@ -1,0 +1,41 @@
+---
+product-family:
+  title: ONTAP 硬體系統文件
+  lead: NetApp 的 ONTAP AFF 、 FAS 和 ASA 硬體儲存系統提供儲存和應用程式資料管理服務、適合需要簡單易管理、且具備企業級可靠性的全快閃儲存設備的高頻寬應用程式。
+  summary: NetApp 的 ONTAP AFF 、 FAS 和 ASA 硬體儲存系統提供儲存和應用程式資料管理服務、適合需要簡單易管理、且具備企業級可靠性的全快閃儲存設備的高頻寬應用程式。
+  sidebarlinks:
+  - title: 全部
+    tags: tag_all
+    class: active
+  - title: 開始使用
+    tags: tag_get_started
+  - title: 系統硬體
+    tags: tag_storage_hardware
+  - title: 系統升級
+    tags: tag_storage_upgrade
+  tiles:
+  - title: 瞭解 ONTAP 硬體系統
+    icon: "./media/family.png"
+    url: intro-family.html
+    summary: 瞭解 ONTAP 硬體系統。
+    tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
+  - title: 安裝與維護
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/index.html"
+    summary: 安裝及維護 ONTAP 硬體系統。
+    tags: tag_all, tag_storage_hardware
+  - title: 升級
+    icon: "./media/upgrade.png"
+    url: "../ontap-systems-upgrade/index.html"
+    summary: 升級 ONTAP 硬體系統。
+    tags: tag_all, tag_storage_upgrade
+  - title: 叢集與儲存交換器
+    icon: "./media/switch.png"
+    url: "../ontap-systems-switches/index.html"
+    summary: 安裝、升級及維護您的叢集與儲存交換器。
+    tags: tag_all, tag_storage_hardware, tag_storage_upgrade
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: "../ontap-metrocluster/index.html"
+    summary: 安裝及升級MetroCluster 或擴充您的支援功能、並執行災難恢復。
+    tags: tag_all, tag_storage_upgrade
