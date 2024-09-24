@@ -6,17 +6,10 @@
   <block id="2d69532c2bc4914b794c51462df97ff8" category="section-title">支援混合式Flash系統FAS</block>
   <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">混合式Flash系統是專為共享、整合式SAN和NAS環境所打造的硬體平台、需要豐富的資料管理功能和輕鬆的雲端連線。FAS</block>
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">藉由高可用度的硬體FAS 、將Flash與傳統旋轉式磁碟機的理想組合結合、使混合式Flash系統以符合成本效益的方式滿足工作負載需求。它是備份與保留、整合一般商業應用程式及分散式內容的理想選擇。</block>
-  <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">閱讀FAS 《產品介紹》</block>
   <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
   <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">不像標準資料複寫解決方案、MetroCluster 它能與主機環境無縫搭配運作、提供持續的資料可用度、同時免除建立及維護複雜容錯移轉指令碼的需求。</block>
-  <block id="f8e19c375690f5b7624b2e50f0cd6854" category="inline-link">瞭MetroCluster 解更多關於功能的資訊</block>
-  <block id="12ec083d4ad98cfdd42aca66fcc37845" category="paragraph"><block ref="12ec083d4ad98cfdd42aca66fcc37845" category="inline-link-rx"></block></block>
   <block id="efd44736fee0b29831bc101f834f9425" category="section-title">軟件ONTAP</block>
-  <block id="ac50b55c541887c8213257b7fa8011db" category="inline-link">閱讀ONTAP 《產品介紹》</block>
-  <block id="b29519a2297404339371dd4904a14b94" category="paragraph"><block ref="c8c2c80c2dc2440549184e1ee06ef9aa" category="inline-link-rx"></block>。</block>
   <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="section-title">以取得更多資訊</block>
-  <block id="65b864ff591bf877a83ed36959ac28d4" category="inline-link">不再是不一樣的AFF FAS</block>
-  <block id="d949f76268d682721c7feb224c7ce172" category="list-text"><block ref="d949f76268d682721c7feb224c7ce172" category="inline-link-rx"></block></block>
   <block id="af8a69aa12393a4d9b6992e884f1c919" category="inline-link">文件MetroCluster</block>
   <block id="33123ba2709c3a1044173954d31c8bda" category="list-text"><block ref="33123ba2709c3a1044173954d31c8bda" category="inline-link-rx"></block></block>
   <block id="c8db31d0d38042ea4fd10dd6bdfd347e" category="inline-link">文件ONTAP</block>
@@ -42,10 +35,6 @@
   <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">安裝、升級及維護您的叢集與儲存交換器。</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">安裝及升級MetroCluster 或擴充您的支援功能、並執行災難恢復。</block>
-  <block id="89392af5eda25c825021d432ddf93588" category="inline-link">閱讀 AFF A 系列產品介紹</block>
-  <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">閱讀 AFF C 系列產品介紹</block>
-  <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> 和<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>。</block>
-  <block id="fac33d262d5cecdc4766c37ba6f9f935" category="paragraph"><block ref="fac33d262d5cecdc4766c37ba6f9f935" category="inline-link-rx"></block></block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
   <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
@@ -60,16 +49,40 @@
   <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">NetApp 的 ONTAP 硬體系統提供 All Flash （ AFF ）和混合式 Flash 和僅硬碟（ FAS ）組態、讓您選擇最符合效能、容量和成本需求的儲存媒體組合。</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">您可以叢集不同的模型組合、在同一個儲存系統上執行混合式工作負載、並使用最新技術新增新一代的儲存設備、以建構您的環境。</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetApp All Flash SAN Array （ ASA ）提供簡化且專屬的 SAN 體驗、可透過 FCP 或 iSCSI 傳輸協定、為企業關鍵任務資料庫及其他 SAN 工作負載提供持續的資料可用度。</block>
-  <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">閱讀 ASA 資料表</block>
-  <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
   <block id="09cbbac77d0ef506dcbd294171cc66dc" category="paragraph">ONTAP 的硬體儲存系統設定有 ONTAP 的 MetroCluster 功能、提供結合陣列式叢集與同步複寫的解決方案、可提供持續可用度、零資料遺失。此功能組態會立即複製每筆交易的所有關鍵任務資料、讓您不中斷地存取應用程式和資料。MetroCluster</block>
   <block id="f5663fc0d37f754e24c01ce5dd001d5f" category="paragraph">ONTAP 資料管理軟體是叢集式儲存軟體、可驅動 ONTAP 硬體系統。ONTAP 軟體採用全域命名空間、最多可支援 24 個所有類型的硬體節點、支援統一化儲存（區塊和檔案）、可讓您使用 ONTAP 系統管理員 GUI 來管理大量的工作負載整合。</block>
   <block id="1f90335d79116dc043d2eb600c05f7dd" category="summary">NetApp 的 ONTAP AFF 、 FAS 和 ASA 硬體儲存系統提供儲存和應用程式資料管理服務、適合需要簡單易管理、且具備企業級可靠性的全快閃儲存設備的高頻寬應用程式。</block>
   <block id="ec6e72d1c4bb7dccdc62b6caf35c95f7" category="doc">ONTAP 硬體系統文件</block>
   <block id="0f7d6ea8518a2e39acde3d5aa8ea5537" category="sidebar">瞭解 ONTAP 硬體系統。</block>
-  <block id="802513659955a80d18b4529f94a6fd08" category="sidebar">安裝與維護</block>
-  <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">安裝及維護 ONTAP 硬體系統。</block>
-  <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">升級</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">升級 ONTAP 硬體系統。</block>
   <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">All Flash SAN Array （ ASA ）系統</block>
+  <block id="a6ebe77e11a2ed7374acaf9354f56274" category="inline-link">閱讀 AFF A 系列資料表</block>
+  <block id="86764b58cbaaccdc83e278793e95e301" category="list-text"><block ref="86764b58cbaaccdc83e278793e95e301" category="inline-link-rx"></block></block>
+  <block id="ac554de1abd48f1d4e9d0b803b89b6b2" category="inline-link">閱讀 AFF C 系列資料表</block>
+  <block id="0baf72dac72f2e22e58f0abc0fa72799" category="list-text"><block ref="0baf72dac72f2e22e58f0abc0fa72799" category="inline-link-rx"></block></block>
+  <block id="fde1abb5537b55c34521d414267b3f70" category="paragraph-title">ASA r2 系統</block>
+  <block id="0ab1a7883d0399cbaf77a2e38633a6ea" category="paragraph">全新的 NetApp ASA R2 系統（ ASA A1K 、 ASA A70 和 ASA A90 ）提供統一化的硬體與軟體解決方案、可針對僅限 SAN 的客戶需求、提供簡化的體驗。</block>
+  <block id="6f3d0a4543e47707e06e149c91eb5fdd" category="paragraph">在 ASA R2 系統上、 ONTAP 軟體和系統管理員經過簡化、可支援基本的 SAN 功能、同時移除 SAN 環境中不支援的功能和功能可見度。</block>
+  <block id="bc585fd3bb77a81c83d188dc9046556e" category="inline-link">閱讀 ASA 資料表</block>
+  <block id="7a876ada0a90e5a61dfa89b62a3504c3" category="list-text"><block ref="7a876ada0a90e5a61dfa89b62a3504c3" category="inline-link-rx"></block></block>
+  <block id="3cf42084274355921caa718c1294f55d" category="inline-link-macro">相較於 ASA 系統、全新的 ASA R2 系統</block>
+  <block id="783b26e83ca5758a4e3f7d5064ab895f" category="list-text">深入瞭解<block ref="4fb12820a3f220b3942114edd9f55791" category="inline-link-macro-rx"></block></block>
+  <block id="e5e09031843479ef9ef8cbbd4c2f404c" category="inline-link">NetApp Hardware Universe</block>
+  <block id="c2040c0e10f6d53403a0b1509ae5c9aa" category="list-text">請參閱中 ASA 和 ASA R2 系統的完整組態支援和限制<block ref="bb9c67b5a4c15a85b5e6aa6c9afd0285" category="inline-link-rx"></block></block>
+  <block id="acf507a3ae5ebfd2f3cabb186667801d" category="inline-link">閱讀 FAS 資料表</block>
+  <block id="8469b2ef88f6cdd582299050db34afcd" category="paragraph"><block ref="8469b2ef88f6cdd582299050db34afcd" category="inline-link-rx"></block></block>
+  <block id="8154432bf2e5d56a941b669e6d519e84" category="inline-link">深入瞭解 MetroCluster</block>
+  <block id="4afbd6676439611f5218628ce8029c8c" category="paragraph"><block ref="4afbd6676439611f5218628ce8029c8c" category="inline-link-rx"></block></block>
+  <block id="b485702592e0498441691e048f6de254" category="inline-link">閱讀 ONTAP 軟體資料表</block>
+  <block id="a6866cb5f6ba1f0846112dff240434fb" category="paragraph"><block ref="a6866cb5f6ba1f0846112dff240434fb" category="inline-link-rx"></block></block>
+  <block id="b00c4b4112816929de0eb8a79af19e7f" category="inline-link">ONTAP 硬體系統文件</block>
+  <block id="8272024ec9920ab1aa65d02ba8144574" category="list-text"><block ref="8272024ec9920ab1aa65d02ba8144574" category="inline-link-rx"></block></block>
+  <block id="f3585daa539c5917b4fedd0eb7efb3f2" category="sidebar">系統AFF</block>
+  <block id="1506cda28c07c10192d406e1db57812e" category="sidebar">安裝及維護 AFF 系統。</block>
+  <block id="6476573ba5b973ad8ea01c57f5b30267" category="sidebar">系統ASA</block>
+  <block id="b2a7c20a808912eb755b7a188e7bda5a" category="sidebar">安裝及維護 ASA 系統。</block>
+  <block id="d5d4923aa83e46af2152de920946ba41" category="sidebar">系統FAS</block>
+  <block id="e97842d9580e37ddd15a6e4ac02f92b0" category="sidebar">安裝及維護 FAS 系統。</block>
+  <block id="c06e33eeff899719a660389c287d9b14" category="sidebar">安裝及使用 ASA R2 系統。</block>
+  <block id="b1e8d525b133e89e64ed87c6c7291779" category="sidebar">升級 ONTAP 硬體系統</block>
 </blocks>

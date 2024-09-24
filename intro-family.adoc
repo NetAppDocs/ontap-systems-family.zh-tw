@@ -25,7 +25,9 @@ NVMe AFF 型的不間斷資料系統是專為虛擬化環境打造的強大橫�
 
 All Flash FAS 支援多種工作負載、尤其是需要高效能、低延遲和可靠性的VDI和資料庫、是業務關鍵應用程式的理想選擇。
 
-https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["閱讀 AFF A 系列產品介紹"^] 和 https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["閱讀 AFF C 系列產品介紹"^]。
+* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["閱讀 AFF A 系列資料表"^]
+* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["閱讀 AFF C 系列資料表"^]
+
 
 
 
@@ -33,7 +35,15 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["閱�
 
 NetApp All Flash SAN Array （ ASA ）提供簡化且專屬的 SAN 體驗、可透過 FCP 或 iSCSI 傳輸協定、為企業關鍵任務資料庫及其他 SAN 工作負載提供持續的資料可用度。
 
-https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["閱讀 ASA 資料表"^]
+.ASA r2 系統
+全新的 NetApp ASA R2 系統（ ASA A1K 、 ASA A70 和 ASA A90 ）提供統一化的硬體與軟體解決方案、可針對僅限 SAN 的客戶需求、提供簡化的體驗。
+
+在 ASA R2 系統上、 ONTAP 軟體和系統管理員經過簡化、可支援基本的 SAN 功能、同時移除 SAN 環境中不支援的功能和功能可見度。
+
+* https://www.netapp.com/data-storage/all-flash-san-storage-array/["閱讀 ASA 資料表"^]
+* 深入瞭解link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["相較於 ASA 系統、全新的 ASA R2 系統"^]
+* 請參閱中 ASA 和 ASA R2 系統的完整組態支援和限制 https://hwu.netapp.com/["NetApp Hardware Universe"^]
+
 
 
 
@@ -43,7 +53,7 @@ https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["閱讀 ASA 資料
 
 藉由高可用度的硬體FAS 、將Flash與傳統旋轉式磁碟機的理想組合結合、使混合式Flash系統以符合成本效益的方式滿足工作負載需求。它是備份與保留、整合一般商業應用程式及分散式內容的理想選擇。
 
-https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["閱讀FAS 《產品介紹》"^]
+https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["閱讀 FAS 資料表"^]
 
 
 
@@ -53,7 +63,7 @@ ONTAP 的硬體儲存系統設定有 ONTAP 的 MetroCluster 功能、提供結�
 
 不像標準資料複寫解決方案、MetroCluster 它能與主機環境無縫搭配運作、提供持續的資料可用度、同時免除建立及維護複雜容錯移轉指令碼的需求。
 
-https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["瞭MetroCluster 解更多關於功能的資訊"^]
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["深入瞭解 MetroCluster"^]
 
 
 
@@ -61,13 +71,10 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["瞭MetroCluster �
 
 ONTAP 資料管理軟體是叢集式儲存軟體、可驅動 ONTAP 硬體系統。ONTAP 軟體採用全域命名空間、最多可支援 24 個所有類型的硬體節點、支援統一化儲存（區塊和檔案）、可讓您使用 ONTAP 系統管理員 GUI 來管理大量的工作負載整合。
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["閱讀ONTAP 《產品介紹》"^]。
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["閱讀 ONTAP 軟體資料表"^]
 
-
-
-== 以取得更多資訊
-
-* https://docs.netapp.com/us-en/ontap-systems/index.html["不再是不一樣的AFF FAS"^]
+.以取得更多資訊
+* https://docs.netapp.com/us-en/ontap-systems/index.html["ONTAP 硬體系統文件"^]
 * https://docs.netapp.com/us-en/ontap-metrocluster/index.html["文件MetroCluster"^]
 * https://docs.netapp.com/us-en/ontap/index.html["文件ONTAP"^]
 

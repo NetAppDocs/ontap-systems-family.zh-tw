@@ -1,6 +1,6 @@
 ---
 settings:
-  name: ONTAP Hardware Systems
+  name: ONTAP hardware systems
   search: ontap-systems,ontap-systems-upgrade,ontap-systems-switches,ontap-metrocluster
   internal:
     pdf_enabled: false
