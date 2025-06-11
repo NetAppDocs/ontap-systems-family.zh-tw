@@ -25,7 +25,7 @@ NVMe AFF 型的不間斷資料系統是專為虛擬化環境打造的強大橫�
 
 All Flash FAS 支援多種工作負載、尤其是需要高效能、低延遲和可靠性的VDI和資料庫、是業務關鍵應用程式的理想選擇。
 
-* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["閱讀 AFF A 系列資料表"^]
+* https://www.netapp.com/pdf.html?item=/media/7828-ds-3582-aff-a-series-ai-era.pdf["閱讀 AFF A 系列資料表"^]
 * https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["閱讀 AFF C 系列資料表"^]
 
 

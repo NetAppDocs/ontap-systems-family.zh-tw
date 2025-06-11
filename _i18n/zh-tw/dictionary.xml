@@ -36,7 +36,6 @@
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">升級 ONTAP 硬體系統。</block>
   <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">All Flash SAN Array （ ASA ）系統</block>
   <block id="a6ebe77e11a2ed7374acaf9354f56274" category="inline-link">閱讀 AFF A 系列資料表</block>
-  <block id="86764b58cbaaccdc83e278793e95e301" category="list-text"><block ref="86764b58cbaaccdc83e278793e95e301" category="inline-link-rx"></block></block>
   <block id="ac554de1abd48f1d4e9d0b803b89b6b2" category="inline-link">閱讀 AFF C 系列資料表</block>
   <block id="0baf72dac72f2e22e58f0abc0fa72799" category="list-text"><block ref="0baf72dac72f2e22e58f0abc0fa72799" category="inline-link-rx"></block></block>
   <block id="fde1abb5537b55c34521d414267b3f70" category="paragraph-title">ASA r2 系統</block>
@@ -59,4 +58,5 @@
   <block id="b1e8d525b133e89e64ed87c6c7291779" category="sidebar">升級 ONTAP 硬體系統</block>
   <block id="61c17d0c22614e250efe81202fb7ad15" category="sidebar">安裝及維護 ONTAP 硬體系統</block>
   <block id="fb2155b80abb48917d9629adfc2cf42d" category="sidebar">安裝及維護 ONTAP 硬體系統。</block>
+  <block id="c1334bdf7221f4c6be726ce308889f18" category="list-text"><block ref="c1334bdf7221f4c6be726ce308889f18" category="inline-link-rx"></block></block>
 </blocks>
