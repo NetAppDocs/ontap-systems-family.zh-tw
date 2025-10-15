@@ -25,12 +25,10 @@
   <block id="b05f1c4b5e26f3eac9dee0aad263ed75" category="summary">NetApp 的 ONTAP 系列儲存系統是專為企業應用程式所設計、這些應用程式需要易於管理、快速且安全的儲存設備、並具備企業級的可靠性和持續的資料存取。</block>
   <block id="4931551222aa917801cbe975fd254f58" category="doc">瞭解 ONTAP 硬體系統</block>
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">NetApp 的 ONTAP 硬體系統是專為企業應用程式所設計、這些應用程式需要易於管理、快速且安全的儲存設備、並具備企業級的可靠性和持續的資料存取。</block>
-  <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">NetApp 的 ONTAP 硬體系統提供 All Flash （ AFF ）和混合式 Flash 和僅硬碟（ FAS ）組態、讓您選擇最符合效能、容量和成本需求的儲存媒體組合。</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">您可以叢集不同的模型組合、在同一個儲存系統上執行混合式工作負載、並使用最新技術新增新一代的儲存設備、以建構您的環境。</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetApp All Flash SAN Array （ ASA ）提供簡化且專屬的 SAN 體驗、可透過 FCP 或 iSCSI 傳輸協定、為企業關鍵任務資料庫及其他 SAN 工作負載提供持續的資料可用度。</block>
   <block id="09cbbac77d0ef506dcbd294171cc66dc" category="paragraph">ONTAP 的硬體儲存系統設定有 ONTAP 的 MetroCluster 功能、提供結合陣列式叢集與同步複寫的解決方案、可提供持續可用度、零資料遺失。此功能組態會立即複製每筆交易的所有關鍵任務資料、讓您不中斷地存取應用程式和資料。MetroCluster</block>
   <block id="f5663fc0d37f754e24c01ce5dd001d5f" category="paragraph">ONTAP 資料管理軟體是叢集式儲存軟體、可驅動 ONTAP 硬體系統。ONTAP 軟體採用全域命名空間、最多可支援 24 個所有類型的硬體節點、支援統一化儲存（區塊和檔案）、可讓您使用 ONTAP 系統管理員 GUI 來管理大量的工作負載整合。</block>
-  <block id="1f90335d79116dc043d2eb600c05f7dd" category="summary">NetApp 的 ONTAP AFF 、 FAS 和 ASA 硬體儲存系統提供儲存和應用程式資料管理服務、適合需要簡單易管理、且具備企業級可靠性的全快閃儲存設備的高頻寬應用程式。</block>
   <block id="ec6e72d1c4bb7dccdc62b6caf35c95f7" category="doc">ONTAP 硬體系統文件</block>
   <block id="0f7d6ea8518a2e39acde3d5aa8ea5537" category="sidebar">瞭解 ONTAP 硬體系統。</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">升級 ONTAP 硬體系統。</block>
@@ -39,7 +37,6 @@
   <block id="ac554de1abd48f1d4e9d0b803b89b6b2" category="inline-link">閱讀 AFF C 系列資料表</block>
   <block id="0baf72dac72f2e22e58f0abc0fa72799" category="list-text"><block ref="0baf72dac72f2e22e58f0abc0fa72799" category="inline-link-rx"></block></block>
   <block id="fde1abb5537b55c34521d414267b3f70" category="paragraph-title">ASA r2 系統</block>
-  <block id="0ab1a7883d0399cbaf77a2e38633a6ea" category="paragraph">全新的 NetApp ASA R2 系統（ ASA A1K 、 ASA A70 和 ASA A90 ）提供統一化的硬體與軟體解決方案、可針對僅限 SAN 的客戶需求、提供簡化的體驗。</block>
   <block id="6f3d0a4543e47707e06e149c91eb5fdd" category="paragraph">在 ASA R2 系統上、 ONTAP 軟體和系統管理員經過簡化、可支援基本的 SAN 功能、同時移除 SAN 環境中不支援的功能和功能可見度。</block>
   <block id="bc585fd3bb77a81c83d188dc9046556e" category="inline-link">閱讀 ASA 資料表</block>
   <block id="7a876ada0a90e5a61dfa89b62a3504c3" category="list-text"><block ref="7a876ada0a90e5a61dfa89b62a3504c3" category="inline-link-rx"></block></block>
@@ -59,4 +56,13 @@
   <block id="61c17d0c22614e250efe81202fb7ad15" category="sidebar">安裝及維護 ONTAP 硬體系統</block>
   <block id="fb2155b80abb48917d9629adfc2cf42d" category="sidebar">安裝及維護 ONTAP 硬體系統。</block>
   <block id="c1334bdf7221f4c6be726ce308889f18" category="list-text"><block ref="c1334bdf7221f4c6be726ce308889f18" category="inline-link-rx"></block></block>
+  <block id="94aedb8c9e1130ca4bec7685c2d4b852" category="paragraph">NetApp 的ONTAP硬體系統提供全快閃、混合快閃記憶體和僅 HDD 配置，讓您可以選擇最符合您的效能、容量和成本要求的儲存媒體組合。</block>
+  <block id="e9d7397e9772df2e11071d57657f4b22" category="section-title">AFX</block>
+  <block id="92aad19229e2fec4b79aaedee2d2e16b" category="paragraph">NetApp AFX 是一款企業級分解式全快閃儲存系統，可提供平行檔案系統和利基 AI 儲存解決方案的所有效能優勢，但在簡單、安全且完全整合的企業級平台上。</block>
+  <block id="271d89ad236b08f12870d2390f8e6d86" category="inline-link">閱讀 AFX 數據表</block>
+  <block id="8ce666a5f2725e171f7d317a1f7afce8" category="list-text"><block ref="8ce666a5f2725e171f7d317a1f7afce8" category="inline-link-rx"></block></block>
+  <block id="fb5c18a654f6c13352d46548b1f57acd" category="inline-link">了解有關 AFX 存儲的更多信息</block>
+  <block id="8ee84128290dd12026974dacb6404ed8" category="list-text"><block ref="8ee84128290dd12026974dacb6404ed8" category="inline-link-rx"></block></block>
+  <block id="fe1c154e079a54d2e08bfd97c768549d" category="paragraph">全新NetApp ASA r2 系統（ASA A1K、 ASA A70、 ASA A90、 ASA A20、 ASA A30、 ASA A50 和 C30）提供統一的硬體和軟體解決方案，可針對僅使用 SAN 的客戶的需求打造簡化的體驗。</block>
+  <block id="8a7195a48274621b19dc4fd921470095" category="sidebar">NetApp 的ONTAP硬體儲存系統為需要簡單、易於管理且具有企業級可靠性的全快閃儲存的高頻寬應用程式提供儲存和應用程式資料管理服務。</block>
 </blocks>

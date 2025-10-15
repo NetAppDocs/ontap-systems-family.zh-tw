@@ -1,8 +1,8 @@
 ---
 product-family:
   title: ONTAP 硬體系統文件
-  lead: NetApp 的 ONTAP AFF 、 FAS 和 ASA 硬體儲存系統提供儲存和應用程式資料管理服務、適合需要簡單易管理、且具備企業級可靠性的全快閃儲存設備的高頻寬應用程式。
-  summary: NetApp 的 ONTAP AFF 、 FAS 和 ASA 硬體儲存系統提供儲存和應用程式資料管理服務、適合需要簡單易管理、且具備企業級可靠性的全快閃儲存設備的高頻寬應用程式。
+  lead: NetApp 的ONTAP硬體儲存系統為需要簡單、易於管理且具有企業級可靠性的全快閃儲存的高頻寬應用程式提供儲存和應用程式資料管理服務。
+  summary: NetApp 的ONTAP硬體儲存系統為需要簡單、易於管理且具有企業級可靠性的全快閃儲存的高頻寬應用程式提供儲存和應用程式資料管理服務。
   sidebarlinks:
   - title: 全部
     tags: tag_all
